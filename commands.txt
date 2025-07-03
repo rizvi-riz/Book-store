@@ -1,0 +1,4 @@
+>> git init 
+>> git add ${fileName}
+>> git commit -m "Added File"
+>> git push
